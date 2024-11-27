@@ -1,33 +1,52 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 20px;
+
+
+.h11 {
+    color: green;
+    size: 15px;
+    margin-bottom: 10px;
+
+}
+.h12 {
+    color: red;
+    size: 22px;
+    margin-bottom: 10px;
+
 }
 
-/* Headings */
-h1 {
-    color: #2c3e50;
-    font-size: 50px;
-    text-align: center;
+.span1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    margin-bottom: 10px;
+
 }
 
-h2 {
-    color: #16a085;
-    font-size: 30px;
-    text-align: center;
+.span2 {
+    font-family: 'Courier New', Courier, monospace ;
+    font-weight: 300;
+    margin-bottom: 10px;
+
 }
 
-/* Paragraph */
-p {
-    font-size: 15px;
-    color: #34495e;
-    line-height: 1.5;
+.div1 {
+    color: yellow;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 10px;
 }
 
-/* Span */
-span {
-    font-size: 15px;
-    color: #00ff00;
-    font-weight: bold;
+.div2 {
+    color: red;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 10px;
+
+}
+
+.div1 {
+    color: green;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+
 }
