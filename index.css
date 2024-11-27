@@ -30,4 +30,17 @@ margin-bottom: 30px;
 .divmam1 {
     display: flex;
     flex-direction: column-reverse;
+    margin-bottom: 10px;
+}
+
+.divmam2 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.divmam3 {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
 }
